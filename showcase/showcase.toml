@@ -1,0 +1,11 @@
+[[media]]
+file = "trace.json.gz"
+name = "Three channels, one picture"
+
+[[media]]
+file = "bench.png"
+name = "Making room for light"
+
+[[media]]
+file = "title.png"
+name = "The optical bench"
